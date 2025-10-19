@@ -1,0 +1,1 @@
+error in readLine: Error: Missing cost per hour definition.

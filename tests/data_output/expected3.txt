@@ -1,0 +1,14 @@
+10:00
+10:00 1 error_client
+10:00 2 error_client 1
+11:00 2 client_ok 1
+11:00 13 ClientUnknown
+12:00 1 client_known
+12:00 1 client_known
+12:00 13 YouShallNotPass
+17:00 4 non_existent
+17:00 13 ClientUnknown
+18:00 11 client_known
+18:00 11 error_client
+18:00
+1 160 08:00
